@@ -1,0 +1,41 @@
+/* Header */
+.header {
+    background-color: #191d88;
+    color: #ffc436;
+    padding: 1rem;
+    position: sticky;
+    top: 0;
+  }
+  
+  .navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .logo {
+    font-size: 1.5rem;
+    font-weight: bold;
+  }
+  
+  .nav-list {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+  }
+  
+  .nav-list li {
+    margin-right: 20px;
+    cursor: pointer;
+    font-size: 1rem;
+    font-weight: 800;
+  }
+  
+  .nav-list a {
+    color: #ffc436;
+    text-decoration: none;
+  }
+  
+  .nav-list a:hover {
+    color: #f8cb61;
+  }

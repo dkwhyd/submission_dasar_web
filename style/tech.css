@@ -1,0 +1,21 @@
+/* Tech */
+.tech {
+  padding: 3rem 0;
+  text-align: center;
+}
+.tech ul {
+  display: flex;
+  padding: 1rem;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  list-style-type: none;
+}
+.tech ul li {
+  text-decoration: none;
+  margin-right: 2rem;
+  line-height: 100%;
+}
+.tech ul li img {
+  height: 100px;
+  width: 120px;
+}
