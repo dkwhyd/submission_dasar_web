@@ -1,5 +1,5 @@
 // Change Role
-const role = ["Web Developer", "Student", "App Developer"];
+const role = ["Web Developer", "Student", "Mobile App Developer"];
 const roleImage = ["web_dev.svg", "programming.svg", "mobile_dev.svg"];
 let heroRole = document.getElementsByClassName("hero-role");
 let heroImage = document.getElementsByClassName("heroImg");
